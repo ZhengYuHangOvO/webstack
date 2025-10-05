@@ -1188,30 +1188,6 @@ categories:
         url: https://betedmvh.manus.space/
         icon: fas fa-link
         description: "椭圆办公室对决，泽连斯基主题模拟游戏在线游玩"
-      - name: 微信读书
-        url: https://weread.qq.com/
-        icon: fas fa-link
-        description: "微信读书，中文电子书阅读与社交平台"
-      - name: Z-library Project - eBook Library Z. Download free Books
-        url: https://z-library.sk/?ts=0610
-        icon: fas fa-link
-        description: "Z-library，免费电子书下载与文献获取平台"
-      - name: 安娜的档案
-        url: https://zh.annas-archive.org/
-        icon: fas fa-link
-        description: "安娜的档案，电子书与文献资源检索与下载平台"
-      - name: 马克思主义文库
-        url: https://www.marxists.org/chinese/index.html
-        icon: fas fa-link
-        description: "马克思主义文库，相关经典文献整理与阅读平台"
-      - name: 互联网档案馆：Wayback Machine
-        url: https://archive.org/web/
-        icon: fas fa-link
-        description: "互联网档案馆Wayback Machine，网页历史存档查询平台"
-      - name: John Zheng | Personal Website
-        url: https://cv.john-life.sbs/
-        icon: fas fa-link
-        description: "John Zheng个人网站，个人信息与作品展示平台"
   - name: 信息
     icon: fas fa-folder
     sites:
@@ -1254,6 +1230,33 @@ categories:
         url: https://www.imf.org/en/Data
         icon: fas fa-link
         description: "IMF Data，国际货币基金组织全球经济数据平台"
+  - name: 工具
+    icon: fas fa-folder
+    sites:
+      - name: 微信读书
+        url: https://weread.qq.com/
+        icon: fas fa-link
+        description: "微信读书，中文电子书阅读与社交平台"
+      - name: Z-library Project - eBook Library Z. Download free Books
+        url: https://z-library.sk/?ts=0610
+        icon: fas fa-link
+        description: "Z-library，免费电子书下载与文献获取平台"
+      - name: 安娜的档案
+        url: https://zh.annas-archive.org/
+        icon: fas fa-link
+        description: "安娜的档案，电子书与文献资源检索与下载平台"
+      - name: 马克思主义文库
+        url: https://www.marxists.org/chinese/index.html
+        icon: fas fa-link
+        description: "马克思主义文库，相关经典文献整理与阅读平台"
+      - name: 互联网档案馆：Wayback Machine
+        url: https://archive.org/web/
+        icon: fas fa-link
+        description: "互联网档案馆Wayback Machine，网页历史存档查询平台"
+      - name: John Zheng | Personal Website
+        url: https://cv.john-life.sbs/
+        icon: fas fa-link
+        description: "John Zheng个人网站，个人信息与作品展示平台"
       - name: 腾讯云
         url: https://cloud.tencent.com/
         icon: fas fa-link
