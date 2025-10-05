@@ -1,1 +1,38 @@
+title: 我的导航
+description: JZ个人网络导航站
+author: John Zheng
+favicon: favicon.ico
+logo_text: 导航站
 
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
+    
+profile:
+  title: Hello,
+  subtitle: Welcome to My Navigation
+  description: 导航菜单
+
+social:
+  - name: GitHub
+    url: https://github.com/pluckypioneer
+    icon: fab fa-github
+  - name: Personal website
+    url: https://cv.john-life.sbs/
+    icon: fab fa-telegram
+  - name: Linkedln
+    url: www.linkedin.com/in/john-zheng-b7a83028a
+    icon: fab fa-linkedln
+  - name: Instagram
+    url: https://www.instagram.com/john_zheng2005
+    icon: fab fa-instgram
