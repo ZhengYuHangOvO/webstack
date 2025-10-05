@@ -104,7 +104,7 @@ categories:
         url: https://oshwhub.com/
         icon: fas fa-link
         description: "立创开源硬件平台，开源项目分享与硬件设计"
-     - name: 中国研究生招生信息网
+      - name: 中国研究生招生信息网
         url: https://yz.chsi.com.cn/
         icon: fas fa-link
         description: "研招网，教育部研究生招生官方平台"
