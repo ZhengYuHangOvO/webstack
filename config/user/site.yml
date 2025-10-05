@@ -32,7 +32,7 @@ social:
     icon: fab fa-telegram
   - name: Linkedln
     url: www.linkedin.com/in/john-zheng-b7a83028a
-    icon: fab fa-linkedln
+    icon: fa fa-linkedin
   - name: Instagram
     url: https://www.instagram.com/john_zheng2005
-    icon: fab fa-instgram
+    icon: fa fa-instagram
