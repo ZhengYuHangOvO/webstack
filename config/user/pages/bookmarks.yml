@@ -744,500 +744,6 @@ categories:
         icon: fas fa-link
         description: "中国知网 CNKI，学术文献与期刊数据库"
       - name: Science | AAAS
-        url: https://www.cnki.net/
-        icon: fas fa-link
-        description: ""
-      - name: Science | AAAS
-        url: https://www.science.org/
-        icon: fas fa-link
-        description: ""
-      - name: ScienceDirect.com | Science, health and medical journals, full text articles and books.
-        url: https://www.sciencedirect.com/
-        icon: fas fa-link
-        description: ""
-      - name: SCI – 科学与商业的结合
-        url: https://www.soci.org/
-        icon: fas fa-link
-        description: ""
-      - name: 中国科学院
-        url: https://www.cas.cn/
-        icon: fas fa-link
-        description: ""
-      - name: Nature
-        url: https://www.nature.com/
-        icon: fas fa-link
-        description: ""
-      - name: 【中国光学期刊网】欢迎您
-        url: https://www.opticsjournal.net/Home
-        icon: fas fa-link
-        description: ""
-      - name: 百度学术 - 保持学习的态度
-        url: https://xueshu.baidu.com/
-        icon: fas fa-link
-        description: ""
-      - name: PubScholar公益学术平台
-        url: https://pubscholar.cn/
-        icon: fas fa-link
-        description: ""
-      - name: IOPscience
-        url: https://iopscience.iop.org/
-        icon: fas fa-link
-        description: ""
-      - name: 霞子_霞子官网_免费学术论文下载_免费文献下载
-        url: https://keyanxiazi.bepass.cn/
-        icon: fas fa-link
-        description: ""
-      - name: HC3i数字医疗网
-        url: https://www.hc3i.cn/
-        icon: fas fa-link
-        description: ""
-      - name: IEEE Xplore
-        url: https://ieeexplore.ieee.org/Xplore/home.jsp
-        icon: fas fa-link
-        description: ""
-      - name: Home | SpringerLink
-        url: https://link.springer.com/
-        icon: fas fa-link
-        description: ""
-      - name: Paperpal - Online
-        url: https://edit.paperpal.com/documents/2df0bdfd-dcc7-40f7-aebf-62fe5f84677a
-        icon: fas fa-link
-        description: ""
-      - name: 中国专利公布公告
-        url: http://epub.cnipa.gov.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 中国生物医学工程学报
-        url: http://cjbme.csbme.org/CN/volumn/home.shtml
-        icon: fas fa-link
-        description: ""
-      - name: Annals of Biomedical Engineering
-        url: https://link.springer.com/journal/10439
-        icon: fas fa-link
-        description: ""
-      - name: Artificial Intelligence in Medicine
-        url: https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine
-        icon: fas fa-link
-        description: ""
-      - name: Biocybernetics and Biomedical
-        url: https://www.sciencedirect.com/journal/biocybernetics-and-biomedical-engineering
-        icon: fas fa-link
-        description: ""
-      - name: Biomedical Engineering Letters
-        url: https://link.springer.com/journal/13534
-        icon: fas fa-link
-        description: ""
-      - name: Interdisciplinary Medicine - Wiley Online Library
-        url: https://onlinelibrary.wiley.com/journal/28326245
-        icon: fas fa-link
-        description: ""
-      - name: 医工学人-官网
-        url: http://www.yigongxueren.com/index.jsp
-        icon: fas fa-link
-        description: ""
-      - name: Wiley Online Library
-        url: https://onlinelibrary.wiley.com/
-        icon: fas fa-link
-        description: ""
-      - name: Accueil - Eurobiomed
-        url: https://www.eurobiomed.org/
-        icon: fas fa-link
-        description: ""
-      - name: Neuroelectrics
-        url: https://www.neuroelectrics.com/
-        icon: fas fa-link
-        description: ""
-      - name: 论论官网-智能科学信息平台
-        url: https://www.lunlunapp.com/
-        icon: fas fa-link
-        description: ""
-      - name: Open science
-        url: https://www.unesco.org/en/open-science
-        icon: fas fa-link
-        description: ""
-      - name: PhysioNet
-        url: https://www.physionet.org/
-        icon: fas fa-link
-        description: ""
-      - name: OpenNeuro
-        url: https://openneuro.org/
-        icon: fas fa-link
-        description: ""
-      - name: OSF.io
-        url: https://osf.io/8bma7/#!
-        icon: fas fa-link
-        description: ""
-  - name: 社交、视频平台
-    icon: fas fa-folder
-    sites:
-      - name: YouTube
-        url: https://www.youtube.com/
-        icon: fab fa-youtube
-        description: ""
-      - name: 公众号
-        url: https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=811694935
-        icon: fas fa-link
-        description: ""
-      - name: Twitter
-        url: https://twitter.com/home
-        icon: fab fa-twitter
-        description: ""
-      - name: Medium
-        url: https://medium.com/
-        icon: fab fa-medium
-        description: ""
-      - name: Instagram
-        url: https://www.instagram.com/
-        icon: fab fa-instagram
-        description: ""
-      - name: Telegram Web
-        url: https://web.telegram.org/k/#-1485920929
-        icon: fab fa-telegram
-        description: ""
-      - name: TikTok
-        url: https://www.tiktok.com/foryou
-        icon: fas fa-link
-        description: ""
-      - name: Facebook
-        url: https://www.facebook.com/
-        icon: fab fa-facebook
-        description: ""
-      - name: Reddit
-        url: https://www.reddit.com/
-        icon: fab fa-reddit
-        description: ""
-      - name: Discord
-        url: https://discord.com/channels/@me
-        icon: fab fa-discord
-        description: ""
-      - name: Twitch
-        url: https://www.twitch.tv/
-        icon: fab fa-twitch
-        description: ""
-      - name: 知乎
-        url: https://www.zhihu.com/
-        icon: fas fa-link
-        description: ""
-      - name: 百度贴吧
-        url: https://tieba.baidu.com/
-        icon: fas fa-link
-        description: ""
-      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
-        url: https://www.bilibili.com/
-        icon: fas fa-link
-        description: ""
-      - name: 萌社区
-        url: https://moe.one/
-        icon: fas fa-link
-        description: ""
-      - name: 小红书
-        url: https://www.xiaohongshu.com/explore
-        icon: fas fa-link
-        description: ""
-      - name: InterPals Penpals
-        url: https://www.interpals.net/app/account
-        icon: fas fa-link
-        description: ""
-      - name: MoonTV
-        url: https://tv.john-life.sbs/
-        icon: fas fa-link
-        description: ""
-      - name: 奈飞工厂 NetflixGC | NetflixGC.com
-        url: https://www.netflixgc.com/?ref=yinghe.app
-        icon: fas fa-link
-        description: ""
-      - name: 微博 – 随时随地发现新鲜事
-        url: https://weibo.com/?sudaref=passport.weibo.com
-        icon: fas fa-link
-        description: ""
-      - name: Quora
-        url: https://www.quora.com/
-        icon: fas fa-link
-        description: ""
-      - name: Snapchat
-        url: https://www.snapchat.com/web
-        icon: fas fa-link
-        description: ""
-      - name: 抖音-记录美好生活
-        url: https://www.douyin.com/?is_new_connect=0&is_new_user=0
-        icon: fas fa-link
-        description: ""
-      - name: 西瓜视频
-        url: https://www.ixigua.com/
-        icon: fas fa-link
-        description: ""
-      - name: 临高启明论坛
-        url: https://lgqmonline.top/forum.php
-        icon: fas fa-link
-        description: ""
-      - name: AcFun弹幕视频网
-        url: https://www.acfun.cn/
-        icon: fas fa-link
-        description: ""
-      - name: OmeTV Video Chat — Top Omegle Random Cam Chat Alternative 2023
-        url: https://ome.tv/
-        icon: fas fa-link
-        description: ""
-      - name: Plex
-        url: https://watch.plex.tv/
-        icon: fas fa-link
-        description: ""
-      - name: 观影 GYING
-        url: https://www.gying.si/
-        icon: fas fa-link
-        description: ""
-      - name: 首頁 | Wix.com
-        url: https://manage.wix.com/dashboard/bcb45343-999c-4c4f-b08c-7827df055a74/home
-        icon: fas fa-link
-        description: ""
-      - name: HelloTalk Web
-        url: https://web.hellotalk.com/?from=1home
-        icon: fas fa-link
-        description: ""
-      - name: 图寻 - 探索真实世界，找到你在的位置
-        url: https://tuxun.fun/
-        icon: fas fa-link
-        description: ""
-      - name: GeoGuessr Free - GeoGuessr
-        url: https://www.geoguessr.com/free
-        icon: fas fa-link
-        description: ""
-      - name: YouTube Music
-        url: https://music.youtube.com/
-        icon: fab fa-youtube
-        description: ""
-      - name: Spotify
-        url: https://open.spotify.com/
-        icon: fab fa-spotify
-        description: ""
-      - name: Radio Garden – Warsaw
-        url: https://radio.garden/visit/warsaw/VpaXMMVw
-        icon: fas fa-link
-        description: ""
-      - name: Watch Global &amp; Local Live TV Online for Free - tv.garden
-        url: https://tv.garden/
-        icon: fas fa-link
-        description: ""
-      - name: IPTVnator
-        url: https://iptvnator.vercel.app/
-        icon: fas fa-link
-        description: ""
-      - name: Tinder
-        url: https://tinder.com/app/recs
-        icon: fas fa-link
-        description: ""
-      - name: Threads
-        url: https://www.threads.net/
-        icon: fas fa-link
-        description: ""
-      - name: 喜马拉雅FM电台
-        url: https://www.ximalaya.com/radio/
-        icon: fas fa-link
-        description: ""
-      - name: pixiv
-        url: https://www.pixiv.net/
-        icon: fas fa-link
-        description: ""
-      - name: CAPITAL 958 Radio Station [OFFICIAL] - melisten
-        url: https://www.melisten.sg/radio/capital-958
-        icon: fas fa-link
-        description: ""
-      - name: Politsturm
-        url: https://us.politsturm.com/
-        icon: fas fa-link
-        description: ""
-      - name: 豆瓣
-        url: https://www.douban.com/
-        icon: fas fa-link
-        description: ""
-      - name: TeleTop - 中文索引
-        url: https://teletop.org/
-        icon: fas fa-link
-        description: ""
-      - name: 文革与当代史研究网
-        url: https://www.difangwenge.org/
-        icon: fas fa-link
-        description: ""
-      - name: 中国文化大革命文库
-        url: https://speechfree.github.io/cultural-revolution-database/
-        icon: fab fa-github
-        description: ""
-      - name: 主頁 | Fun Pavilion
-        url: https://nicefunpavilion.wixsite.com/fun-pavilion
-        icon: fas fa-link
-        description: ""
-      - name: 维基文库
-        url: https://zh.wikisource.org/zh-hans/Wikisource:%E9%A6%96%E9%A1%B5
-        icon: fas fa-link
-        description: ""
-      - name: 無產階級圖書館 - 解放知識！
-        url: http://45.32.41.3/
-        icon: fas fa-link
-        description: ""
-  - name: AI
-    icon: fas fa-folder
-    sites:
-      - name: ChatGPT
-        url: https://chat.openai.com/c/4e45b3b1-276b-4de9-9e74-d6a31547f2d9
-        icon: fas fa-link
-        description: ""
-      - name: Gemini
-        url: https://gemini.google.com/app
-        icon: fab fa-google
-        description: ""
-      - name: 豆包
-        url: https://www.doubao.com/?utm_source=ai-bot.cn
-        icon: fas fa-link
-        description: ""
-      - name: 通义
-        url: https://tongyi.aliyun.com/qianwen/
-        icon: fas fa-link
-        description: ""
-      - name: Kimi.ai - 帮你看更大的世界
-        url: https://kimi.moonshot.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 智谱清言
-        url: https://chatglm.cn/main/detail
-        icon: fas fa-link
-        description: ""
-      - name: Perplexity AI
-        url: https://www.perplexity.ai/?login-source=floatingSignup
-        icon: fas fa-link
-        description: ""
-      - name: 文心一言
-        url: https://yiyan.baidu.com/
-        icon: fas fa-link
-        description: ""
-      - name: 讯飞星火
-        url: https://xinghuo.xfyun.cn/desk
-        icon: fas fa-link
-        description: ""
-      - name: Suno
-        url: https://suno.com/
-        icon: fas fa-link
-        description: ""
-      - name: Microsoft Designer - Stunning designs in a flash
-        url: https://designer.microsoft.com/
-        icon: fab fa-microsoft
-        description: ""
-      - name: pic-ChartGPT
-        url: https://www.chartgpt.dev/
-        icon: fas fa-link
-        description: ""
-      - name: Gamma
-        url: https://gamma.app/create
-        icon: fas fa-link
-        description: ""
-      - name: ChatGPT 引导语
-        url: https://prompts.fresns.cn/
-        icon: fas fa-link
-        description: ""
-      - name: storm.genie.stanford.edu
-        url: https://storm.genie.stanford.edu/
-        icon: fas fa-link
-        description: ""
-      - name: Cursor Hub
-        url: https://cursorhub.org/
-        icon: fas fa-link
-        description: ""
-      - name: Figma
-        url: https://www.figma.com/
-        icon: fas fa-link
-        description: ""
-      - name: Builder.io
-        url: https://www.builder.io/
-        icon: fas fa-link
-        description: ""
-  - name: 游戏下载
-    icon: fas fa-folder
-    sites:
-      - name: 主页 | 傻狗本狗の小破站
-        url: https://www.sharelikes.com.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 钢铁雄心4百科
-        url: https://hoi4.parawikis.com/zh-hant/
-        icon: fas fa-link
-        description: ""
-      - name: P社互助资源站
-        url: https://share.paragames233.com/
-        icon: fas fa-link
-        description: ""
-      - name: Steam
-        url: https://store.steampowered.com/
-        icon: fab fa-steam
-        description: ""
-      - name: 4399小游戏
-        url: https://www.4399.com/
-        icon: fas fa-link
-        description: ""
-      - name: flysheep资源避难所
-        url: https://www.flysheep6.com/
-        icon: fas fa-link
-        description: ""
-      - name: Epic
-        url: https://store.epicgames.com/zh-CN/
-        icon: fas fa-link
-        description: ""
-      - name: Games List
-        url: https://binbashbanana.github.io/gfiles/list.html
-        icon: fab fa-github
-        description: ""
-      - name: 钢铁雄心4最全装备代码
-        url: https://tieba.baidu.com/p/5784978557
-        icon: fas fa-link
-        description: ""
-      - name: 椭圆办公室对决：泽连斯基模拟器
-        url: https://betedmvh.manus.space/
-        icon: fas fa-link
-        description: ""
-      - name: 微信读书
-        url: https://weread.qq.com/
-        icon: fas fa-link
-        description: ""
-      - name: Z-library Project - eBook Library Z. Download free Books
-        url: https://z-library.sk/?ts=0610
-        icon: fas fa-link
-        description: ""
-      - name: 安娜的档案
-        url: https://zh.annas-archive.org/
-        icon: fas fa-link
-        description: ""
-      - name: 马克思主义文库
-        url: https://www.marxists.org/chinese/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 互联网档案馆：Wayback Machine
-        url: https://archive.org/web/
-        icon: fas fa-link
-        description: ""
-      - name: John Zheng | Personal Website
-        url: https://cv.john-life.sbs/# 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-05T13:34:26.359Z
-# 若要更新，请将新的书签HTML文件放入bookmarks/目录
-# 此文件使用模块化配置格式，位于config/user/pages/目录下
-
-title: 我的书签
-subtitle: 从浏览器导入的书签收藏
-categories:
-  # （前文已补充部分省略，从“科研”分类未完成处继续）
-  - name: 科研
-    icon: fas fa-folder
-    sites:
-      - name: PubMed
-        url: https://pubmed.ncbi.nlm.nih.gov/
-        icon: fas fa-link
-        description: "PubMed，NCBI旗下生物医学领域权威文献检索平台"
-      - name: Google 学术搜索
-        url: https://scholar.google.com.hk/?hl=zh-CN
-        icon: fab fa-google
-        description: "Google学术，全球多学科学术文献检索与引用查询工具"
-      - name: 中国知网
-        url: https://www.cnki.net/
-        icon: fas fa-link
-        description: "中国知网（CNKI），中文核心学术期刊与文献数据库"
-      - name: Science | AAAS
         url: https://www.science.org/
         icon: fas fa-link
         description: "Science期刊官网，美国科学促进会（AAAS）旗下权威科学平台"
@@ -2007,151 +1513,151 @@ categories:
       - name: 政治意识形态列表 - 维基百科，自由的百科全书
         url: https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB%E6%84%8F%E8%AD%98%E5%BD%A2%E6%85%8B%E5%88%97%E8%A1%A8
         icon: fab fa-wikipedia-w
-        description: ""
+        description: "维基百科政治意识形态列表页面，收录全球各类政治意识形态的定义、分类与核心主张"
       - name: AI Voice Generator &amp; Text to Speech | ElevenLabs
         url: https://elevenlabs.io/
         icon: fas fa-link
-        description: ""
+        description: "ElevenLabs，AI驱动的高保真语音生成与文本转语音工具平台"
       - name: I Miss You | DevTunes FM
         url: https://radio.madza.dev/
         icon: fas fa-link
-        description: ""
+        description: "DevTunes FM的I Miss You电台，在线音乐播放与电台收听平台"
       - name: 有道云笔记
         url: https://note.youdao.com/web/#/file/recent/note/WEBcf0a8985df3b784bf25bc35d0cd9e979/
         icon: fas fa-link
-        description: ""
+        description: "有道云笔记，中文云笔记与文档协作工具平台"
       - name: 华为云空间
         url: https://cloud.huawei.com/home#/home
         icon: fas fa-link
-        description: ""
+        description: "华为云空间，华为旗下设备云存储与数据同步平台"
       - name: ZhiMap 思维导图
         url: https://zhimap.com/home
         icon: fas fa-link
-        description: ""
+        description: "ZhiMap，在线思维导图创作与知识梳理工具平台"
       - name: Popular Videos
         url: https://app.pixverse.ai/creative/list
         icon: fas fa-link
-        description: ""
+        description: "Pixverse AI的Popular Videos页面，AI生成视频作品展示与管理平台"
       - name: 秀米XIUMI
         url: https://xiumi.us/#/
         icon: fas fa-link
-        description: ""
+        description: "秀米XIUMI，公众号图文排版与创意设计工具平台"
       - name: 有趣网址之家 - 收藏全球最有趣的网站
         url: https://youquhome.com/
         icon: fas fa-link
-        description: ""
+        description: "有趣网址之家，全球特色网站导航与资源聚合平台"
       - name: 国际免费SIM卡 |吉夫加夫
         url: https://www.giffgaff.com/freesim-international
         icon: fas fa-link
-        description: ""
+        description: "吉夫加夫（giffgaff）国际免费SIM卡申请页面，提供跨境通信服务"
       - name: Compiler Explorer
         url: https://godbolt.org/
         icon: fas fa-link
-        description: ""
+        description: "Compiler Explorer，多语言代码实时编译与汇编查看工具平台"
       - name: 社工库
         url: https://www.shegongku.top/21.html
         icon: fas fa-link
-        description: ""
+        description: "社工库信息查询页面，提供公开信息聚合与检索服务"
       - name: 996忍者
         url: https://996.ninja/
         icon: fas fa-link
-        description: ""
+        description: "996忍者平台，关注职场权益与工作生活平衡的资讯站点"
       - name: SMS-Activate在线接受短信的虚拟号码服务
         url: https://sms-activate.io/cn
         icon: fas fa-link
-        description: ""
+        description: "SMS-Activate，全球虚拟号码服务，支持在线接收短信验证"
       - name: 简单简历
         url: https://easycv.cn/
         icon: fas fa-link
-        description: ""
+        description: "简单简历，在线简历制作与模板下载工具平台"
       - name: TGSO.PRO-专业的TG搜索引擎
         url: https://tgso.pro/
         icon: fas fa-link
-        description: ""
+        description: "TGSO.PRO，Telegram（电报）频道与内容专业搜索引擎"
       - name: 我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘
         url: https://www.jianguoyun.com/#/
         icon: fas fa-link
-        description: ""
+        description: "坚果云个人云存储页面，提供文件同步、备份与协作服务"
       - name: Cloud storage | InfiniCLOUD
         url: https://account.teracloud.jp/Subscription.php/index/userid=nicer2005/
         icon: fas fa-link
-        description: ""
+        description: "InfiniCLOUD（日本Teracloud）云存储订阅管理页面"
       - name: 文档指南 | TGwiki - Telegram知识库
         url: https://tgnav.github.io/tgwiki/guide.html
         icon: fab fa-github
-        description: ""
+        description: "TGwiki Telegram知识库文档指南，Telegram使用与资源整理页面"
       - name: Outlier
         url: https://outlier.ai/
         icon: fas fa-link
-        description: ""
+        description: "Outlier.ai，AI驱动的数据分析与异常检测工具平台"
       - name: GitHub Star History
         url: https://star-history.com/
         icon: fas fa-link
-        description: ""
+        description: "GitHub Star History，GitHub仓库星标数量历史趋势查询工具"
       - name: voice.google
         url: https://voice.google.com/u/0/blocked
         icon: fab fa-google
-        description: ""
+        description: "Google Voice（谷歌语音）拦截号码管理页面，提供语音通信服务"
       - name: 小米路由器
         url: http://miwifi.com/cgi-bin/luci/;stok=18e9e0f0feec8af16879145ea86747df/web/syslock?flashtype=download
         icon: fas fa-link
-        description: ""
+        description: "小米路由器管理后台系统锁定页面，用于路由器配置与维护"
       - name: VVQuest
         url: https://vv.xy0v0.top/
         icon: fas fa-link
-        description: ""
+        description: "VVQuest平台，提供资源查询与在线服务聚合功能"
       - name: 《城市租房生存指南》
         url: https://zufang.ababtools.com/
         icon: fas fa-link
-        description: ""
+        description: "《城市租房生存指南》，租房攻略与房源信息查询平台"
       - name: 时光图书馆
         url: https://atimebook.com/
         icon: fas fa-link
-        description: ""
+        description: "时光图书馆，电子书阅读与经典文献收藏平台"
       - name: A Real Me - Test to Know Yourself
         url: https://www.arealme.com/
         icon: fas fa-link
-        description: ""
+        description: "A Real Me，性格测试、能力测评与自我认知工具平台"
       - name: KOREA VISA PORTAL
         url: https://www.visa.go.kr/
         icon: fas fa-link
-        description: ""
+        description: "韩国签证门户网站（KOREA VISA PORTAL），韩国签证申请与资讯平台"
   - name: 邮箱
     icon: fas fa-folder
     sites:
       - name: Gmail
         url: https://mail.google.com/mail/u/0/#inbox
         icon: fab fa-google
-        description: ""
+        description: "Gmail，谷歌旗下免费电子邮件服务平台"
       - name: 网易邮箱
         url: https://mail.163.com/js6/main.jsp?sid=FADuMOAMWpBgNSKXymMMlxtlBPWNSWRM&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D
         icon: fas fa-link
-        description: ""
+        description: "网易邮箱（163邮箱）登录后的主页面，提供电子邮件收发服务"
       - name: Proton Mail
         url: https://mail.proton.me/u/0/inbox?welcome=true
         icon: fas fa-link
-        description: ""
+        description: "Proton Mail，注重隐私保护的加密电子邮件服务平台"
       - name: QQ邮箱
         url: https://wx.mail.qq.com/home/index?sid=zZthZ4xIcHIuEnJTAHxxZQAA#/list/1/1
         icon: fas fa-link
-        description: ""
+        description: "QQ邮箱微信登录版主页面，提供电子邮件与文件传输服务"
       - name: 临时邮箱
         url: https://rootsh.com/
         icon: fas fa-link
-        description: ""
+        description: "rootsh临时邮箱平台，提供匿名临时电子邮件接收服务"
       - name: Outlook
         url: https://partner.outlook.cn/mail/
         icon: fas fa-link
-        description: ""
+        description: "Outlook邮箱（中国版），微软旗下电子邮件与日程管理平台"
       - name: mail.dearmer
         url: https://mail.dearmer.edu.kg/SOGo/so/johnzheng2005@oup.edu.pl/Mail/view#!/Mail/0/INBOX/2
         icon: fas fa-link
-        description: ""
+        description: "dearmer.edu.kg域名下的SOGo邮件系统，特定邮箱账号的收件箱页面"
       - name: MoeMail
         url: https://email.gov.moe/#!/mail/list/INBOX
         icon: fas fa-link
-        description: ""
+        description: "MoeMail（gov.moe域名）邮件系统，收件箱列表页面"
       - name: Jmail
         url: https://mail.john-life.sbs/inbox
         icon: fas fa-link
-        description: ""
+        description: "Jmail（john-life.sbs域名）邮件服务，收件箱页面"
