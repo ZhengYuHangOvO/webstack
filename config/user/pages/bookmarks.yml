@@ -104,6 +104,162 @@ categories:
         url: https://oshwhub.com/
         icon: fas fa-link
         description: "立创开源硬件平台，开源项目分享与硬件设计"
+     - name: 中国研究生招生信息网
+        url: https://yz.chsi.com.cn/
+        icon: fas fa-link
+        description: "研招网，教育部研究生招生官方平台"
+      - name: "[野火]STM32库开发实战指南"
+        url: https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/index.html
+        icon: fas fa-link
+        description: "野火STM32库开发指南，嵌入式开发教程"
+      - name: "[野火]Linux基础与应用开发实战指南（嵌入式）"
+        url: https://doc.embedfire.com/linux/imx6/linux_base/zh/latest/index.html
+        icon: fas fa-link
+        description: "野火Linux基础指南，嵌入式Linux学习教程"
+      - name: 牛客网
+        url: https://www.nowcoder.com/
+        icon: fas fa-link
+        description: "牛客网，求职备考与编程竞赛平台"
+         - name: Coursera | Online Courses From Top Universities. Join for Free
+        url: https://www.coursera.org/?isNewUser=true
+        icon: fas fa-link
+        description: "Coursera，在线课程平台，多所名校课程"
+      - name: Google Cloud Skills Boost
+        url: https://www.cloudskillsboost.google/paths/118?locale=zh
+        icon: fas fa-link
+        description: "Google Cloud技能提升平台，云服务与AI培训"
+      - name: Free Certificates and Badges — Class Central
+        url: https://www.classcentral.com/report/free-certificates/
+        icon: fas fa-link
+        description: "Class Central免费证书平台，在线课程证书查询"
+      - name: 学信网
+        url: https://account.chsi.com.cn/account/account!show.action
+        icon: fas fa-link
+        description: "学信网，教育部学历查询与学籍管理平台"
+      - name: CSDN - 专业开发者社区
+        url: https://www.csdn.net/?spm=1001.2101.3001.4476
+        icon: fas fa-link
+        description: "CSDN，专业开发者社区与技术博客平台"
+      - name: 学习通
+        url: http://i.mooc.chaoxing.com/space/index?t=1697005343074
+        icon: fas fa-link
+        description: "超星学习通，在线课程学习与教学平台"
+      - name: WE Learn 随行课堂
+        url: https://welearn.sflep.com/student/index.aspx
+        icon: fas fa-link
+        description: "WE Learn随行课堂，英语学习与教学平台"
+      - name: 雨课堂
+        url: https://www.yuketang.cn/v2/web/index
+        icon: fas fa-link
+        description: "雨课堂，智慧教学与课堂互动平台"
+      - name: 批改网
+        url: https://www.pigai.org/index.php?c=write
+        icon: fas fa-link
+        description: "批改网，英语作文自动批改与学习平台"
+      - name: 图书馆书目检索系统
+        url: https://opac.smu.edu.cn/space/index
+        icon: fas fa-link
+        description: "南方医科大学图书馆书目检索系统"
+      - name: 软科
+        url: https://www.shanghairanking.cn/
+        icon: fas fa-link
+        description: "软科，世界大学排名与高等教育评估平台"
+      - name: 中国大学MOOC(慕课)
+        url: https://www.icourse163.org/
+        icon: fas fa-link
+        description: "中国大学MOOC，国内高校在线课程平台"
+      - name: 智慧树网
+        url: https://www.zhihuishu.com/
+        icon: fas fa-link
+        description: "智慧树网，在线教育与课程学习平台"
+      - name: U校园AI版
+        url: https://uai.unipus.cn/home
+        icon: fas fa-link
+        description: "U校园AI版，大学英语学习平台"
+      - name: edX
+        url: https://www.edx.org/
+        icon: fas fa-link
+        description: "edX，全球名校在线课程平台"
+      - name: 在线选座
+        url: http://lib.smu.edu.cn/article/detail/267
+        icon: fas fa-link
+        description: "南方医科大学图书馆在线选座系统"
+      - name: 考试中心
+        url: https://test.haoce.com/pages/exam/center/index
+        icon: fas fa-link
+        description: "好测考试中心，各类考试与测评服务"
+      - name: 南方医科大学网络题库与考试系统
+        url: https://jwxt.smu.edu.cn/smuexam/slogin
+        icon: fas fa-link
+        description: "南医大网络题库，在线考试与练习平台"
+      - name: 学生考试 - iTEST智能测评云平台
+        url: https://itestcloud.unipus.cn/utest/itest/s/exam
+        icon: fas fa-link
+        description: "iTEST智能测评云平台，英语测试与练习"
+      - name: 资源访问控制系统 - 资源站点
+        url: https://webvpn.smu.edu.cn/
+        icon: fas fa-link
+        description: "南医大WebVPN，校内资源访问工具"
+      - name: 正版软件管理与服务平台(南方医科大学)
+        url: http://ms.smu.edu.cn/
+        icon: fas fa-link
+        description: "南医大正版软件平台，软件下载与管理"
+      - name: Your learning - FutureLearn
+        url: https://www.futurelearn.com/your-recommendations
+        icon: fas fa-link
+        description: "FutureLearn，在线课程与职业发展平台"
+      - name: 网易云课堂 - 悄悄变强大
+        url: https://study.163.com/
+        icon: fas fa-link
+        description: "网易云课堂，职业技能与兴趣学习平台"
+      - name: Next-gen Tech Edu
+        url: https://ng-tech.icu/books-gallery/
+        icon: fas fa-link
+        description: "Next-gen Tech Edu，新一代技术教育书籍平台"
+      - name: 生物医学工程学院
+        url: https://bme.shanghaitech.edu.cn/main.htm
+        icon: fas fa-link
+        description: "上海科技大学生命科学学院官网，学术与教学"
+      - name: 中国科学院苏州生物医学工程技术研究所
+        url: https://sibet.cas.cn/
+        icon: fas fa-link
+        description: "中科院苏州医工所，生物医学工程研究机构"
+      - name: 上海大学生命科学学院
+        url: https://bio.shu.edu.cn/index.htm
+        icon: fas fa-link
+        description: "上海大学生命科学学院官网，学术与人才培养"
+      - name: 研可岸择校
+        url: https://www.xn--2tu19i68pdwh.com/f/sc/index.html#/school
+        icon: fas fa-link
+        description: "研可岸择校，研究生择校与备考咨询平台"
+      - name: 研究生必备常识-掌上考研
+        url: https://www.kaoyan.cn/knows?fromcoop=pddh
+        icon: fas fa-link
+        description: "掌上考研，研究生备考与择校资讯平台"
+      - name: 框框大学
+        url: https://www.kkdaxue.com/
+        icon: fas fa-link
+        description: "框框大学，高校资讯与学习资源平台"
+      - name: 关于大学的一切！（2023年） - 飞书云文档
+        url: https://d3b2w63rwb.feishu.cn/docx/BA01ddQcAooRkuxVkhzce3cCn4f
+        icon: fas fa-link
+        description: "关于大学的一切，高校生活与学习指南文档"
+      - name: BoBo&#39;s Investment Daily Blog
+        url: https://boist.org/
+        icon: fas fa-link
+        description: "BoBo投资日记博客，投资与财经资讯"
+      - name: 活动行
+        url: https://www.huodongxing.com/
+        icon: fas fa-link
+        description: "活动行，活动报名与社交平台"
+      - name: Youth Opportunities
+        url: https://www.youthop.com/#google_vignette
+        icon: fas fa-link
+        description: "Youth Opportunities，青年学术与职业机会平台"
+      - name: Build Your Perfect Workout
+        url: https://workout.cool/
+        icon: fas fa-link
+        description: "Build Your Perfect Workout，个性化健身计划平台"
   - name: hackothon&open source
     icon: fas fa-folder
     sites:
@@ -266,23 +422,7 @@ categories:
         url: https://www.study-in-europe.net/
         icon: fas fa-link
         description: "留欧之星，欧洲留学申请咨询服务平台"
-      - name: 中国研究生招生信息网
-        url: https://yz.chsi.com.cn/
-        icon: fas fa-link
-        description: "研招网，教育部研究生招生官方平台"
-      - name: "[野火]STM32库开发实战指南"
-        url: https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/index.html
-        icon: fas fa-link
-        description: "野火STM32库开发指南，嵌入式开发教程"
-      - name: "[野火]Linux基础与应用开发实战指南（嵌入式）"
-        url: https://doc.embedfire.com/linux/imx6/linux_base/zh/latest/index.html
-        icon: fas fa-link
-        description: "野火Linux基础指南，嵌入式Linux学习教程"
-      - name: 牛客网
-        url: https://www.nowcoder.com/
-        icon: fas fa-link
-        description: "牛客网，求职备考与编程竞赛平台"
-  - name: English
+  - name: Language
     icon: fas fa-folder
     sites:
       - name: 雅思
@@ -588,146 +728,6 @@ categories:
         url: https://aiplanet.com/
         icon: fas fa-link
         description: "AI Planet，人工智能学习与竞赛平台"
-      - name: Coursera | Online Courses From Top Universities. Join for Free
-        url: https://www.coursera.org/?isNewUser=true
-        icon: fas fa-link
-        description: "Coursera，在线课程平台，多所名校课程"
-      - name: Google Cloud Skills Boost
-        url: https://www.cloudskillsboost.google/paths/118?locale=zh
-        icon: fas fa-link
-        description: "Google Cloud技能提升平台，云服务与AI培训"
-      - name: Free Certificates and Badges — Class Central
-        url: https://www.classcentral.com/report/free-certificates/
-        icon: fas fa-link
-        description: "Class Central免费证书平台，在线课程证书查询"
-      - name: 学信网
-        url: https://account.chsi.com.cn/account/account!show.action
-        icon: fas fa-link
-        description: "学信网，教育部学历查询与学籍管理平台"
-      - name: CSDN - 专业开发者社区
-        url: https://www.csdn.net/?spm=1001.2101.3001.4476
-        icon: fas fa-link
-        description: "CSDN，专业开发者社区与技术博客平台"
-      - name: 学习通
-        url: http://i.mooc.chaoxing.com/space/index?t=1697005343074
-        icon: fas fa-link
-        description: "超星学习通，在线课程学习与教学平台"
-      - name: WE Learn 随行课堂
-        url: https://welearn.sflep.com/student/index.aspx
-        icon: fas fa-link
-        description: "WE Learn随行课堂，英语学习与教学平台"
-      - name: 雨课堂
-        url: https://www.yuketang.cn/v2/web/index
-        icon: fas fa-link
-        description: "雨课堂，智慧教学与课堂互动平台"
-      - name: 批改网
-        url: https://www.pigai.org/index.php?c=write
-        icon: fas fa-link
-        description: "批改网，英语作文自动批改与学习平台"
-      - name: 图书馆书目检索系统
-        url: https://opac.smu.edu.cn/space/index
-        icon: fas fa-link
-        description: "南方医科大学图书馆书目检索系统"
-      - name: 软科
-        url: https://www.shanghairanking.cn/
-        icon: fas fa-link
-        description: "软科，世界大学排名与高等教育评估平台"
-      - name: 中国大学MOOC(慕课)
-        url: https://www.icourse163.org/
-        icon: fas fa-link
-        description: "中国大学MOOC，国内高校在线课程平台"
-      - name: 智慧树网
-        url: https://www.zhihuishu.com/
-        icon: fas fa-link
-        description: "智慧树网，在线教育与课程学习平台"
-      - name: U校园AI版
-        url: https://uai.unipus.cn/home
-        icon: fas fa-link
-        description: "U校园AI版，大学英语学习平台"
-      - name: edX
-        url: https://www.edx.org/
-        icon: fas fa-link
-        description: "edX，全球名校在线课程平台"
-      - name: 在线选座
-        url: http://lib.smu.edu.cn/article/detail/267
-        icon: fas fa-link
-        description: "南方医科大学图书馆在线选座系统"
-      - name: 考试中心
-        url: https://test.haoce.com/pages/exam/center/index
-        icon: fas fa-link
-        description: "好测考试中心，各类考试与测评服务"
-      - name: 南方医科大学网络题库与考试系统
-        url: https://jwxt.smu.edu.cn/smuexam/slogin
-        icon: fas fa-link
-        description: "南医大网络题库，在线考试与练习平台"
-      - name: 学生考试 - iTEST智能测评云平台
-        url: https://itestcloud.unipus.cn/utest/itest/s/exam
-        icon: fas fa-link
-        description: "iTEST智能测评云平台，英语测试与练习"
-      - name: 资源访问控制系统 - 资源站点
-        url: https://webvpn.smu.edu.cn/
-        icon: fas fa-link
-        description: "南医大WebVPN，校内资源访问工具"
-      - name: 正版软件管理与服务平台(南方医科大学)
-        url: http://ms.smu.edu.cn/
-        icon: fas fa-link
-        description: "南医大正版软件平台，软件下载与管理"
-      - name: Your learning - FutureLearn
-        url: https://www.futurelearn.com/your-recommendations
-        icon: fas fa-link
-        description: "FutureLearn，在线课程与职业发展平台"
-      - name: 网易云课堂 - 悄悄变强大
-        url: https://study.163.com/
-        icon: fas fa-link
-        description: "网易云课堂，职业技能与兴趣学习平台"
-      - name: Next-gen Tech Edu
-        url: https://ng-tech.icu/books-gallery/
-        icon: fas fa-link
-        description: "Next-gen Tech Edu，新一代技术教育书籍平台"
-      - name: 生物医学工程学院
-        url: https://bme.shanghaitech.edu.cn/main.htm
-        icon: fas fa-link
-        description: "上海科技大学生命科学学院官网，学术与教学"
-      - name: 中国科学院苏州生物医学工程技术研究所
-        url: https://sibet.cas.cn/
-        icon: fas fa-link
-        description: "中科院苏州医工所，生物医学工程研究机构"
-      - name: 上海大学生命科学学院
-        url: https://bio.shu.edu.cn/index.htm
-        icon: fas fa-link
-        description: "上海大学生命科学学院官网，学术与人才培养"
-      - name: 研可岸择校
-        url: https://www.xn--2tu19i68pdwh.com/f/sc/index.html#/school
-        icon: fas fa-link
-        description: "研可岸择校，研究生择校与备考咨询平台"
-      - name: 研究生必备常识-掌上考研
-        url: https://www.kaoyan.cn/knows?fromcoop=pddh
-        icon: fas fa-link
-        description: "掌上考研，研究生备考与择校资讯平台"
-      - name: 框框大学
-        url: https://www.kkdaxue.com/
-        icon: fas fa-link
-        description: "框框大学，高校资讯与学习资源平台"
-      - name: 关于大学的一切！（2023年） - 飞书云文档
-        url: https://d3b2w63rwb.feishu.cn/docx/BA01ddQcAooRkuxVkhzce3cCn4f
-        icon: fas fa-link
-        description: "关于大学的一切，高校生活与学习指南文档"
-      - name: BoBo&#39;s Investment Daily Blog
-        url: https://boist.org/
-        icon: fas fa-link
-        description: "BoBo投资日记博客，投资与财经资讯"
-      - name: 活动行
-        url: https://www.huodongxing.com/
-        icon: fas fa-link
-        description: "活动行，活动报名与社交平台"
-      - name: Youth Opportunities
-        url: https://www.youthop.com/#google_vignette
-        icon: fas fa-link
-        description: "Youth Opportunities，青年学术与职业机会平台"
-      - name: Build Your Perfect Workout
-        url: https://workout.cool/
-        icon: fas fa-link
-        description: "Build Your Perfect Workout，个性化健身计划平台"
   - name: 科研
     icon: fas fa-folder
     sites:
