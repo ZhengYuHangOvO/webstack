@@ -120,7 +120,7 @@ categories:
         url: https://www.nowcoder.com/
         icon: fas fa-link
         description: "牛客网，求职备考与编程竞赛平台"
-         - name: Coursera | Online Courses From Top Universities. Join for Free
+      - name: Coursera | Online Courses From Top Universities. Join for Free
         url: https://www.coursera.org/?isNewUser=true
         icon: fas fa-link
         description: "Coursera，在线课程平台，多所名校课程"
