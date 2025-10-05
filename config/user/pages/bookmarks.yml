@@ -260,7 +260,7 @@ categories:
         url: https://workout.cool/
         icon: fas fa-link
         description: "Build Your Perfect Workout，个性化健身计划平台"
-  - name: hackothon&open source
+  - name: Hackothon & Open source
     icon: fas fa-folder
     sites:
       - name: Devpost
