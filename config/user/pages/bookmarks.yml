@@ -104,7 +104,7 @@ categories:
         url: https://oshwhub.com/
         icon: fas fa-link
         description: ""
-  - name: hackothon&amp;open source
+  - name: hackothon&open source
     icon: fas fa-folder
     sites:
       - name: Devpost
@@ -142,7 +142,7 @@ categories:
         url: https://bbs.gter.net/
         icon: fas fa-link
         description: ""
-      - name: L&#39;Etudiant
+      - name: La Etudiant
         url: https://www.letudiant.fr/
         icon: fas fa-link
         description: ""
@@ -380,11 +380,11 @@ categories:
         url: http://www.uinio.com/
         icon: fas fa-link
         description: ""
-      - name: Signals &amp; Systems at NTU-EE (信號與系統 by 連豊力)
+      - name: Signals & Systems at NTU-EE (信號與系統 by 連豊力)
         url: https://cc.ee.ntu.edu.tw/~fengli/Teaching/SignalsSystems/
         icon: fas fa-link
         description: ""
-      - name: Frank&#39;s Biomed Books
+      - name: Frank's Biomed Books
         url: http://www.frankshospitalworkshop.com/organisation/biomed_books.html
         icon: fas fa-link
         description: ""
