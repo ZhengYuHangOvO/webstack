@@ -6,7 +6,7 @@
 title: 我的书签
 subtitle: 从浏览器导入的书签收藏
 categories:
-  - name: 收藏夹栏
+  - name: 默认书签夹
     icon: fas fa-folder
     sites:
       - name: Google
