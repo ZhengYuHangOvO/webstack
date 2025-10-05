@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let isLightTheme = false; // 主题状态
     let isSidebarCollapsed = false; // 侧边栏折叠状态
     let pages; // 页面元素的全局引用
-    let currentSearchEngine = 'local'; // 当前选择的搜索引擎
+    let currentSearchEngine = 'bing'; // 当前选择的搜索引擎
 
     // 搜索索引，用于提高搜索效率
     let searchIndex = {
@@ -336,6 +336,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 搜索引擎配置
     const searchEngines = {
+        bing: {
+            name: 'Bing搜索',
+            icon: 'fab fa-microsoft',
+            url: 'https://www.bing.com/search?q='
+        },
         local: {
             name: '本地搜索',
             icon: 'fas fa-search',
@@ -345,11 +350,6 @@ document.addEventListener('DOMContentLoaded', () => {
             name: 'Google搜索',
             icon: 'fab fa-google',
             url: 'https://www.google.com/search?q='
-        },
-        bing: {
-            name: 'Bing搜索',
-            icon: 'fab fa-microsoft',
-            url: 'https://www.bing.com/search?q='
         },
         baidu: {
             name: '百度搜索',
