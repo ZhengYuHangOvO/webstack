@@ -1265,6 +1265,10 @@ categories:
         url: https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.30+commit.73712a01.js
         icon: fab fa-ethereum
         description: "Remix，以太坊智能合约开发IDE工具"
+       -name: Overleaf
+        url: https://cn.overleaf.com/project
+        icon: fas fa-link
+        description: "Overleaf在线latex编辑器"
       - name: Cloudflare
         url: https://dash.cloudflare.com/ac569dd4f46b793b1b6c8172e20a9c6e/home/developer-platform
         icon: fas fa-link
