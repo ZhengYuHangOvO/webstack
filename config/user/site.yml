@@ -36,6 +36,6 @@ social:
   - name: Instagram
     url: https://www.instagram.com/john_zheng2005
     icon: fab fa-instagram
-  - name: Personal Website
+  - name: CV Website
     url: https://cv.john-life.sbs
-    icon: fab fa-address-card-o
+    icon: fab fa-address-card
