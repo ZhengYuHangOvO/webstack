@@ -612,6 +612,14 @@ categories:
         url: http://www.frankshospitalworkshop.com/organisation/biomed_books.html
         icon: fas fa-link
         description: "Frank's Biomed Books，生物医学工程书籍资源"
+      - name: fiercebiotech
+        url: https://www.fiercebiotech.com/
+        icon: fas fa-book-reader
+        description: "Fierce Biotech 涵盖生物制药行业从药物开发到商业化的全过程，提供新闻、分析和数据。"
+      - name: genomeweb
+        url: https://www.genomeweb.com/
+        icon: fas fa-book-reader
+        description: "GenomeWeb 是一家报道基于基因组学的研究、工具和技术的新闻和信息公司"
   - name: JOB
     icon: fas fa-folder
     sites:
