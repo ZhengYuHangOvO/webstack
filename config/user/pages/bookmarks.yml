@@ -1513,6 +1513,10 @@ categories:
         url: https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview
         icon: fas fa-link
         description: "DigitalPlat域名管理面板，域名解析与管理平台"
+      - name: ahrefstop
+        url: https://ahrefstop.com/websites
+        icon: fas fa-link
+        description: "网站访问量查询网站"
       - name: "Traffic.cv: Free Website Traffic Checker"
         url: https://traffic.cv/
         icon: fas fa-link
