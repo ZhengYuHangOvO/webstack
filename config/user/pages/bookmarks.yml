@@ -496,6 +496,90 @@ categories:
   - name: BME
     icon: fas fa-folder
     sites:
+      - name: MIT OpenCourseWare – Biomedical Engineering
+        url: https://ocw.mit.edu/courses/biological-engineering/
+        icon: fas fa-book-reader
+        description: "麻省理工学院开放课程，提供生物医学工程学习资源"
+      - name: Khan Academy – Health and Medicine
+        url: https://www.khanacademy.org/science/health-and-medicine
+        icon: fas fa-stethoscope
+        description: "可汗学院健康与医学板块，提供基础医学和健康知识"
+      - name: PubMed Biomaterials Database
+        url: https://pubmed.ncbi.nlm.nih.gov/
+        icon: fas fa-database
+        description: "美国国家医学图书馆的生物医学文献数据库，可用于检索生物材料相关论文"
+      - name: Biomaterials Tutorials on EdX
+        url: https://www.edx.org/learn/biomaterials
+        icon: fas fa-graduation-cap
+        description: "EdX平台上的生物材料在线教程和课程"
+      - name: Regenerative Medicine 101 (YouTube)
+        url: https://www.youtube.com/watch?v=cz71oPEalyM
+        icon: fab fa-youtube
+        description: "YouTube上关于再生医学基础知识的视频教程"
+      - name: FDA's Medical Device Regulations
+        url: https://www.fda.gov/medical-devices
+        icon: fas fa-balance-scale
+        description: "美国食品药品监督管理局（FDA）医疗器械相关法规和指南"
+      - name: MATLAB for Students
+        url: https://www.mathworks.com/products/matlab/student.html
+        icon: fas fa-calculator
+        description: "MathWorks的MATLAB学生版信息和资源，用于数值计算和数据分析"
+      - name: Fusion 360 Tutorials for Prototyping
+        url: https://www.autodesk.com/products/fusion-360/overview
+        icon: fas fa-drafting-compass
+        description: "Autodesk Fusion 360教程，常用于3D建模和原型设计"
+      - name: Thingiverse – 3D Model Repository
+        url: https://www.thingiverse.com/
+        icon: fas fa-cube
+        description: "一个大型的3D模型分享库，可用于3D打印项目"
+      - name: Arduino Biomedical Project Guides
+        url: https://www.arduino.cc/en/Tutorial/HomePage
+        icon: fas fa-microchip
+        description: "Arduino官方教程，可用于生物医学项目中的硬件控制和数据采集"
+      - name: NeuroTechX Resources
+        url: https://neurotechx.com/
+        icon: fas fa-brain
+        description: "神经技术社区资源，提供神经技术相关信息和项目"
+      - name: OpenBCI GUI for Biosignal Analysis
+        url: https://openbci.com/
+        icon: fas fa-waveform
+        description: "OpenBCI的图形用户界面，用于生物信号（如脑电图EEG）的采集和分析"
+      - name: OpenSim for Biomechanics Modeling
+        url: https://simtk.org/projects/opensim
+        icon: fas fa-running
+        description: "OpenSim开源软件，用于生物力学建模和仿真分析"
+      - name: ANSYS Tutorials for Finite Element Analysis
+        url: https://www.ansys.com/academic/students
+        icon: fas fa-sitemap
+        description: "ANSYS的学术和学生资源，提供有限元分析（FEA）教程"
+      - name: Pandas Documentation
+        url: https://pandas.pydata.org/
+        icon: fas fa-table
+        description: "Python数据处理和分析库Pandas的官方文档"
+      - name: SPSS
+        url: https://www.ibm.com/products/spss-statistics
+        icon: fas fa-chart-pie
+        description: "IBM的统计分析软件SPSS Statistics"
+      - name: R for Medical Data Analysis
+        url: https://www.r-project.org/
+        icon: fas fa-ruler-combined
+        description: "R语言项目官网，常用于医学和生物统计数据分析"
+      - name: ImageJ
+        url: https://imagej.nih.gov/ij/
+        icon: fas fa-images
+        description: "NIH开发的图像处理和分析软件ImageJ"
+      - name: Nanotechnology World Network
+        url: http://www.nanotechnologyworld.org/
+        icon: fas fa-microscope
+        description: "纳米技术世界的资讯和资源网络"
+      - name: BMES Career Center
+        url: https://jobboard.bmes.org/
+        icon: fas fa-briefcase
+        description: "生物医学工程学会（BMES）的职业中心，提供招聘信息"
+      - name: BMES Membership
+        url: https://www.bmes.org/membership/information
+        icon: fas fa-users
+        description: "生物医学工程学会（BMES）的会员信息和资源"
       - name: Biomedical Engineering Society
         url: https://www.bmes.org/
         icon: fas fa-link
@@ -669,6 +753,18 @@ categories:
         url: https://docs.python.org/zh-cn/3/library/index.html
         icon: fab fa-python
         description: "Python 3.12标准库中文文档，开发参考"
+      - name: NumPy Documentation
+        url: https://numpy.org/doc/
+        icon: fas fa-file-code
+        description: "Python科学计算基础库NumPy的官方文档"
+      - name: SciPy Documentation
+        url: https://scipy.org/
+        icon: fas fa-flask
+        description: "Python科学计算库SciPy的官方文档，包含优化、积分、统计等模块"
+      - name: Matplotlib Documentation
+        url: https://matplotlib.org/
+        icon: fas fa-chart-bar
+        description: "Python绘图库Matplotlib的官方文档"
       - name: DevDocs API Documentation
         url: https://devdocs.io/
         icon: fas fa-link
