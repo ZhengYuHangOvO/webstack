@@ -967,6 +967,10 @@ categories:
         url: https://osf.io/8bma7/#!
         icon: fas fa-link
         description: "OSF.io，开放科学框架，科研项目协作与数据管理平台"
+      - name: Medical Xpress
+        url: https://medicalxpress.com/
+        icon: fas fa-link
+        description: "Medical Xpress - 医学研究进展与健康资讯"
   - name: 社交、视频平台
     icon: fas fa-folder
     sites:
