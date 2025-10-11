@@ -832,6 +832,11 @@ categories:
         url: https://aiplanet.com/
         icon: fas fa-link
         description: "AI Planet，人工智能学习与竞赛平台"
+      - name: Agentic AI with Andrew Ng - DeepLearning.AI
+        url: https://www.deeplearning.ai/courses/agentic-ai/
+        icon: fas fa-link
+        description: "《由 Andrew Ng 讲解的自主 AI - DeepLearning.AI》"
+        
   - name: 科研
     icon: fas fa-folder
     sites:
