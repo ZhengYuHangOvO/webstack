@@ -477,14 +477,18 @@ categories:
         url: https://www.fun-mooc.fr/fr/etablissements/fun/
         icon: fas fa-link
         description: "FUN MOOC，法国国立数字大学在线课程平台"
-      - name: 全国大学英语四、六级考试报名网
-        url: https://cet-bm.neea.cn/
-        icon: fas fa-link
-        description: "CET报名网，大学英语四六级考试官方报名"
       - name: 欢迎使用NCRE考试报名系统
         url: https://ncre-bm.neea.cn/Candidate/Index
         icon: fas fa-link
         description: "NCRE报名系统，全国计算机等级考试报名"
+      - name: DELF、DALF法语
+        url: https://delf-dalf.neea.edu.cn/
+        icon: fas fa-link
+        description: "DELF、DALF法语，法语考试报名平台"
+      - name: Azurlingua
+        url: https://testfr.azurlingua.net/
+        icon: fas fa-link
+        description: "法语读物、法语测试"
       - name: 英语听力练习_日语_韩语_法语听力训练网站-沪江社团
         url: https://ting.hujiang.com/
         icon: fas fa-link
@@ -493,6 +497,10 @@ categories:
         url: https://julebu.co/
         icon: fas fa-link
         description: "句乐部，英语句子学习与口语练习平台"
+      - name: 全国大学英语四、六级考试报名网
+        url: https://cet-bm.neea.cn/
+        icon: fas fa-link
+        description: "CET报名网，大学英语四六级考试官方报名"
   - name: BME
     icon: fas fa-folder
     sites:
