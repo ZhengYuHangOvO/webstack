@@ -260,6 +260,22 @@ categories:
         url: https://workout.cool/
         icon: fas fa-link
         description: "Build Your Perfect Workout，个性化健身计划平台"
+      - name: Biomaterials Tutorials on EdX
+        url: https://www.edx.org/learn/biomaterials
+        icon: fas fa-graduation-cap
+        description: "EdX平台上的生物材料在线教程和课程"
+      - name: Khan Academy – Health and Medicine
+        url: https://www.khanacademy.org/science/health-and-medicine
+        icon: fas fa-stethoscope
+        description: "可汗学院健康与医学板块，提供基础医学和健康知识"
+      - name: PubMed Biomaterials Database
+        url: https://pubmed.ncbi.nlm.nih.gov/
+        icon: fas fa-database
+        description: "美国国家医学图书馆的生物医学文献数据库，可用于检索生物材料相关论文"
+      - name: Regenerative Medicine 101 (YouTube)
+        url: https://www.youtube.com/watch?v=cz71oPEalyM
+        icon: fab fa-youtube
+        description: "YouTube上关于再生医学基础知识的视频教程"
   - name: Hackothon & Open source
     icon: fas fa-folder
     sites:
@@ -508,22 +524,6 @@ categories:
         url: https://ocw.mit.edu/courses/biological-engineering/
         icon: fas fa-book-reader
         description: "麻省理工学院开放课程，提供生物医学工程学习资源"
-      - name: Khan Academy – Health and Medicine
-        url: https://www.khanacademy.org/science/health-and-medicine
-        icon: fas fa-stethoscope
-        description: "可汗学院健康与医学板块，提供基础医学和健康知识"
-      - name: PubMed Biomaterials Database
-        url: https://pubmed.ncbi.nlm.nih.gov/
-        icon: fas fa-database
-        description: "美国国家医学图书馆的生物医学文献数据库，可用于检索生物材料相关论文"
-      - name: Biomaterials Tutorials on EdX
-        url: https://www.edx.org/learn/biomaterials
-        icon: fas fa-graduation-cap
-        description: "EdX平台上的生物材料在线教程和课程"
-      - name: Regenerative Medicine 101 (YouTube)
-        url: https://www.youtube.com/watch?v=cz71oPEalyM
-        icon: fab fa-youtube
-        description: "YouTube上关于再生医学基础知识的视频教程"
       - name: FDA's Medical Device Regulations
         url: https://www.fda.gov/medical-devices
         icon: fas fa-balance-scale
@@ -560,30 +560,10 @@ categories:
         url: https://www.ansys.com/academic/students
         icon: fas fa-sitemap
         description: "ANSYS的学术和学生资源，提供有限元分析（FEA）教程"
-      - name: Pandas Documentation
-        url: https://pandas.pydata.org/
-        icon: fas fa-table
-        description: "Python数据处理和分析库Pandas的官方文档"
-      - name: SPSS
-        url: https://www.ibm.com/products/spss-statistics
-        icon: fas fa-chart-pie
-        description: "IBM的统计分析软件SPSS Statistics"
-      - name: R for Medical Data Analysis
-        url: https://www.r-project.org/
-        icon: fas fa-ruler-combined
-        description: "R语言项目官网，常用于医学和生物统计数据分析"
       - name: ImageJ
         url: https://imagej.nih.gov/ij/
         icon: fas fa-images
         description: "NIH开发的图像处理和分析软件ImageJ"
-      - name: Nanotechnology World Network
-        url: http://www.nanotechnologyworld.org/
-        icon: fas fa-microscope
-        description: "纳米技术世界的资讯和资源网络"
-      - name: BMES Career Center
-        url: https://jobboard.bmes.org/
-        icon: fas fa-briefcase
-        description: "生物医学工程学会（BMES）的职业中心，提供招聘信息"
       - name: BMES Membership
         url: https://www.bmes.org/membership/information
         icon: fas fa-users
@@ -620,14 +600,7 @@ categories:
         url: http://www.frankshospitalworkshop.com/organisation/biomed_books.html
         icon: fas fa-link
         description: "Frank's Biomed Books，生物医学工程书籍资源"
-      - name: fiercebiotech
-        url: https://www.fiercebiotech.com/
-        icon: fas fa-book-reader
-        description: "Fierce Biotech 涵盖生物制药行业从药物开发到商业化的全过程，提供新闻、分析和数据。"
-      - name: genomeweb
-        url: https://www.genomeweb.com/
-        icon: fas fa-book-reader
-        description: "GenomeWeb 是一家报道基于基因组学的研究、工具和技术的新闻和信息公司"
+
   - name: JOB
     icon: fas fa-folder
     sites:
@@ -687,6 +660,10 @@ categories:
         url: https://csradar.com/
         icon: fas fa-link
         description: "CSRADAR，香港公务员资讯与招聘平台"
+      - name: BMES Career Center
+        url: https://jobboard.bmes.org/
+        icon: fas fa-briefcase
+        description: "生物医学工程学会（BMES）的职业中心，提供招聘信息"
       - name: GoinGlobal
         url: https://www.goinglobal.com/
         icon: fas fa-link
@@ -781,6 +758,18 @@ categories:
         url: https://matplotlib.org/
         icon: fas fa-chart-bar
         description: "Python绘图库Matplotlib的官方文档"
+      - name: Pandas Documentation
+        url: https://pandas.pydata.org/
+        icon: fas fa-table
+        description: "Python数据处理和分析库Pandas的官方文档"
+      - name: SPSS
+        url: https://www.ibm.com/products/spss-statistics
+        icon: fas fa-chart-pie
+        description: "IBM的统计分析软件SPSS Statistics"
+      - name: R for Medical Data Analysis
+        url: https://www.r-project.org/
+        icon: fas fa-ruler-combined
+        description: "R语言项目官网，常用于医学和生物统计数据分析"
       - name: DevDocs API Documentation
         url: https://devdocs.io/
         icon: fas fa-link
@@ -984,6 +973,18 @@ categories:
         url: https://medicalxpress.com/
         icon: fas fa-link
         description: "Medical Xpress - 医学研究进展与健康资讯"
+      - name: fiercebiotech
+        url: https://www.fiercebiotech.com/
+        icon: fas fa-book-reader
+        description: "Fierce Biotech 涵盖生物制药行业从药物开发到商业化的全过程，提供新闻、分析和数据。"
+      - name: genomeweb
+        url: https://www.genomeweb.com/
+        icon: fas fa-book-reader
+        description: "GenomeWeb 是一家报道基于基因组学的研究、工具和技术的新闻和信息公司"
+      - name: Nanotechnology World Network
+        url: http://www.nanotechnologyworld.org/
+        icon: fas fa-microscope
+        description: "纳米技术世界的资讯和资源网络"
   - name: 社交、视频平台
     icon: fas fa-folder
     sites:
