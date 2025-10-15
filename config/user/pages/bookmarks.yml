@@ -382,6 +382,14 @@ categories:
         url: https://www.cscse.edu.cn/
         icon: fas fa-link
         description: "中国留学网，教育部留学服务中心官方平台"
+      - name: Rechercher un contrat ou une formation en alternance
+        url: https://www.alternance.emploi.gouv.fr/recherches-offres-formations
+        icon: fas fa-link
+        description: "寻找实习合同或学徒培训"
+      - name: 法国移民局
+        url: https://france-visas.gouv.fr/zh/web/france-visas
+        icon: fas fa-link
+        description: "法国移民局官网，了解最新签证、移民政策"
       - name: educations
         url: https://www.educations.cn/
         icon: fas fa-link
