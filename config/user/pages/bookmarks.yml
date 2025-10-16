@@ -584,7 +584,7 @@ categories:
         url: https://electronics.stackexchange.com/
         icon: fas fa-link
         description: "电子工程技术问答社区，硬件设计咨询"
-     -  name: 得捷
+      - name: 得捷
         url: https://www.digikey.cn/
         icon: fas fa-link
         description: "电子商城"
