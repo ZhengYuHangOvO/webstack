@@ -584,6 +584,10 @@ categories:
         url: https://electronics.stackexchange.com/
         icon: fas fa-link
         description: "电子工程技术问答社区，硬件设计咨询"
+     - name: 得捷
+        url: https://www.digikey.cn/
+        icon: fas fa-link
+        description: "电子商城"
       - name: Biomedical engineering courses
         url: https://linktr.ee/biomedicalengineering.es
         icon: fas fa-link
@@ -592,6 +596,10 @@ categories:
         url: https://www.alldatasheet.com/
         icon: fas fa-link
         description: "ALLDATASHEET，电子元器件 datasheet 查询"
+      - name: 正点原子
+        url: http://47.111.11.73/docs/index.html
+        icon: fas fa-link
+        description: "正点原子文档"
       - name: 台灣大學機器學習與機器視覺實驗室 | 國立臺灣大學 機器學習與機器視覺實驗室 | NTU Toolmen Lab
         url: https://www.mlmvlab.bime.ntu.edu.tw/
         icon: fas fa-link
@@ -726,6 +734,10 @@ categories:
   - name: Develop
     icon: fas fa-folder
     sites:
+      - name: Jira
+        url: https://home.atlassian.com/o/0fdbf55c-2b6b-4138-9f7e-f16f35f86275?cloudId=55741cb1-ccaa-4820-8074-66dd9fe9a32d
+        icon: fas fa-link
+        description: "项目管理"
       - name: Solidity by Example
         url: https://solidity-by-example.org/
         icon: fas fa-link
@@ -802,10 +814,6 @@ categories:
         url: https://algo.codefather.cn/
         icon: fas fa-link
         description: "算法导航，交互式算法学习与可视化平台"
-      - name: 首页 - AlgoMooc（跟着吴师兄，算法学习好轻松）
-        url: https://www.algomooc.com/home
-        icon: fas fa-link
-        description: "AlgoMooc，吴师兄算法学习平台"
       - name: 洛谷 | 计算机科学教育新生态
         url: https://www.luogu.com.cn/
         icon: fas fa-link
