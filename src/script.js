@@ -411,6 +411,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // 侧边栏折叠功能
     function toggleSidebarCollapse() {
+        // 仅在交互时启用布局相关动画，避免首屏闪烁
+        document.documentElement.classList.add('with-anim');
+
         isSidebarCollapsed = !isSidebarCollapsed;
 
         // 使用 requestAnimationFrame 确保平滑过渡
@@ -665,7 +668,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // 使用更高效的搜索算法
             const matchedItems = searchIndex.items.filter(item => {
-                return item.searchText.includes(searchTerm);
+                return item.searchText.includes(searchTerm) || PinyinMatch.match(item.searchText, searchTerm);;
             });
 
             // 按页面分组结果
@@ -800,6 +803,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     title.removeChild(title.firstChild);
                 }
                 title.appendChild(titleFragment);
+            } else if (PinyinMatch.match(title.textContent, searchTerm)) {
+                const arr = PinyinMatch.match(title.textContent, searchTerm);
+                const [start, end] = arr;
+                title.innerHTML = title.textContent.slice(0, start) +
+                    `<span class="highlight">${title.textContent.slice(start, end + 1)}</span>` +
+                    title.textContent.slice(end + 1);
             }
 
             // 安全地高亮描述中的匹配文本
@@ -846,6 +855,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     description.removeChild(description.firstChild);
                 }
                 description.appendChild(descFragment);
+            } else if (PinyinMatch.match(description.textContent, searchTerm)) {
+                const arr = PinyinMatch.match(description.textContent, searchTerm);
+                const [start, end] = arr;
+                description.innerHTML = description.textContent.slice(0, start) +
+                    `<span class="highlight">${description.textContent.slice(start, end + 1)}</span>` +
+                    description.textContent.slice(end + 1);
             }
         } catch (error) {
             console.error('Error highlighting search term');
